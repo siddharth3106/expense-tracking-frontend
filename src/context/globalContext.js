@@ -3,7 +3,7 @@ import axios from 'axios'
 
 
 // const BASE_URL = "http://localhost:5000/";
-const BASE_URL = "https://expense-tracking-backend-p016.onrender.com";
+const BASE_URL = "https://expense-backend-pntd.onrender.com";
 
 
 
