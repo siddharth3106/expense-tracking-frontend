@@ -6,6 +6,7 @@ import axios from 'axios'
 const BASE_URL = "https://expense-tracking-backend-p016.onrender.com";
 
 
+
 const GlobalContext = React.createContext()
 
 export const GlobalProvider = ({children}) => {
